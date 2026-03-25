@@ -1,0 +1,110 @@
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\appsettings.json
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\WebLab.staticwebassets.runtime.json
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\WebLab.exe
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\WebLab.deps.json
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\WebLab.runtimeconfig.json
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\WebLab.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\WebLab.pdb
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Npgsql.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\WebLab.csproj.AssemblyReference.cache
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\WebLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\WebLab.AssemblyInfoInputs.cache
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\WebLab.AssemblyInfo.cs
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\WebLab.csproj.CoreCompileInputs.cache
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\WebLab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\staticwebassets\msbuild.WebLab.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\staticwebassets\msbuild.build.WebLab.props
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebLab.props
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebLab.props
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\scopedcss\bundle\WebLab.styles.css
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\WebLab.csproj.Up2Date
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\WebLab.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\refint\WebLab.dll
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\WebLab.pdb
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\WebLab.genruntimeconfig.cache
+C:\Users\fanta\Documents\csharp tests\WebLab\obj\Debug\net8.0\ref\WebLab.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\appsettings.json
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\WebLab.staticwebassets.runtime.json
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\WebLab.exe
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\WebLab.deps.json
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\WebLab.runtimeconfig.json
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\WebLab.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\WebLab.pdb
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Npgsql.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\WebLab.csproj.AssemblyReference.cache
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\WebLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\WebLab.AssemblyInfoInputs.cache
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\WebLab.AssemblyInfo.cs
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\WebLab.csproj.CoreCompileInputs.cache
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\WebLab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\staticwebassets\msbuild.WebLab.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\staticwebassets\msbuild.build.WebLab.props
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebLab.props
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebLab.props
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\scopedcss\bundle\WebLab.styles.css
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\WebLab.csproj.Up2Date
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\WebLab.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\refint\WebLab.dll
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\WebLab.pdb
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\WebLab.genruntimeconfig.cache
+C:\Users\fanta\Documents\csharp tests\WebLab — копия\obj\Debug\net8.0\ref\WebLab.dll
