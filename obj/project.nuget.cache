@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "soOavFwh3adOloZpE8kFSlFGdpTkwlgZ/ntu+tgRkrecMyAtBnoPYsTkgekI6lU6fRps+6Il6UdCZR7P1rYckQ==",
+  "dgSpecHash": "b6/AcKiRqPpZFQKcdTZbTAWku8HDLLI23+8yPuFeIJciZeL7teT/4tJYjfWDl3/JqxP1epscz48tlf4jwdeD4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fanta\\Documents\\csharp tests\\WebLab — копия\\WebLab.csproj",
+  "projectFilePath": "C:\\Users\\fanta\\Documents\\csharptests\\WebLabC\\WebLab.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fanta\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.25\\microsoft.aspnetcore.authentication.jwtbearer.8.0.25.nupkg.sha512",
     "C:\\Users\\fanta\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.25\\microsoft.aspnetcore.jsonpatch.8.0.25.nupkg.sha512",

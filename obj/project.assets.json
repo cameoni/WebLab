@@ -1285,11 +1285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fanta\\Documents\\csharp tests\\WebLab — копия\\WebLab.csproj",
+      "projectUniqueName": "C:\\Users\\fanta\\Documents\\csharptests\\WebLabC\\WebLab.csproj",
       "projectName": "WebLab",
-      "projectPath": "C:\\Users\\fanta\\Documents\\csharp tests\\WebLab — копия\\WebLab.csproj",
+      "projectPath": "C:\\Users\\fanta\\Documents\\csharptests\\WebLabC\\WebLab.csproj",
       "packagesPath": "C:\\Users\\fanta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fanta\\Documents\\csharp tests\\WebLab — копия\\obj\\",
+      "outputPath": "C:\\Users\\fanta\\Documents\\csharptests\\WebLabC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fanta\\AppData\\Roaming\\NuGet\\NuGet.Config",

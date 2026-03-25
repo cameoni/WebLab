@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "YdmICjmRqsmh6KSWY5GkoD/FkZfQiGlsJIYk0yYpgOQ=",
+  "Hash": "JvE5GeyngDiYq9ZRD4as1OO3u88Lf2KQ/kIzbxcDZ54=",
   "Source": "WebLab",
   "BasePath": "_content/WebLab",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebLab\\wwwroot",
+      "Source": "WebLab",
+      "ContentRoot": "C:\\Users\\fanta\\Documents\\csharptests\\WebLabC\\wwwroot\\",
+      "BasePath": "_content/WebLab",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

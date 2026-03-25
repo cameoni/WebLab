@@ -8,13 +8,9 @@
 
   <ItemGroup>
     <Compile Remove="Views\**" />
-    <Compile Remove="wwwroot\**" />
     <Content Remove="Views\**" />
-    <Content Remove="wwwroot\**" />
     <EmbeddedResource Remove="Views\**" />
-    <EmbeddedResource Remove="wwwroot\**" />
     <None Remove="Views\**" />
-    <None Remove="wwwroot\**" />
   </ItemGroup>
 
   <ItemGroup>
